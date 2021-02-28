@@ -1,0 +1,6 @@
+{
+    "data/crowbarcmd/crowbarcmd.exe":"https://github.com/UltraTechX/Crowbar-Command-Line/releases/download/0.68-v1/CrowbarCommandLineDecomp.exe",
+    "data/source2utils/mdl_to_vmdl.py":"https://raw.githubusercontent.com/AlpyneDreams/source2utils/master/utils/mdl_to_vmdl.py",
+    "data/source2utils/qc_to_vmdl.py":"https://raw.githubusercontent.com/AlpyneDreams/source2utils/master/utils/qc_to_vmdl.py",
+    "data/source2utils/vmt_to_vmat.py":"https://raw.githubusercontent.com/AlpyneDreams/source2utils/master/utils/vmt_to_vmat.py"
+}
